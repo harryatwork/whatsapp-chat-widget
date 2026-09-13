@@ -1,3 +1,6 @@
-# WhatsApp-Chat-Module
+# 💬 WhatsApp Chat Widget
 
-Demo Link : https://drive.google.com/file/d/1TgeNXaQjHGzYUfHLLkq_Fu8y3baNpm1k/view?usp=sharing
+A plug-and-play WhatsApp chat integration module. Drop it into any website to add a floating WhatsApp button that opens a chat with a preset number and message.
+
+## Usage
+Include the module files and configure your WhatsApp number and greeting message in the config block.
